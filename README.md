@@ -11,10 +11,10 @@ Il profilo verrà periodicamente aggiornato da parte dell’Istituto Centrale pe
 
 ## Versione corrente
 ### Profilo METS ECO-MiC versione 1.1 (marzo 2024)
--  pdf
--  xml esempio
+-  [Documento standard formato .pdf](ICDP_METS_ECO-MiC_V.1.1.pdf)
+-  [Esempio compilato di file XML METS ECO-MiC (Dominio Archivistico)](ASMO_T_CONCORDI_POSS_281822_documento.xml)
 
 ## Versioni precedenti
 ### Profilo METS ECO-MiC versione 1.0 (giugno 2022)
-- pdf
-- xml esempio
+- (work in progress...)
+- (work in progress...)
