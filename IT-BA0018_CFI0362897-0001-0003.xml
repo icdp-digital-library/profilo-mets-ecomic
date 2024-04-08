@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets OBJID="METS_IT-BA0018_CFI0362897-0001-0003" xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dct="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="https://www.loc.gov/standards/mods/v3" xmlns:metsrights="http://cosimo.stanford.edu/sdr/metsrights/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd https://www.loc.gov/standards/mods/v3/mods.xsd https://www.loc.gov/standards/mods/v3/mods-3-8.xsd http://cosimo.stanford.edu/sdr/metsrights/ https://www.loc.gov/standards/rights/METSRights.xsd">
+	<mets:metsHdr CREATEDATE="2024-01-16T16:16:39Z" LASTMODDATE="2024-03-04T16:16:39Z" ID="ID_IT-BA0018_CFI0362897-0001-0003" RECORDSTATUS="COMPLETE">
+		<mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+			<mets:name>Ministero della Cultura</mets:name>
+		</mets:agent>
+		<mets:agent ROLE="IPOWNER" TYPE="ORGANIZATION">
+			<mets:name>Ministero della Cultura</mets:name>
+		</mets:agent>
+		<mets:agent ROLE="IPOWNER" TYPE="ORGANIZATION">
+			<mets:name>Biblioteca Nazionale Sagarriga Visconti Volpi - Bari</mets:name>
+		</mets:agent>
+		<mets:agent ROLE="CUSTODIAN" TYPE="ORGANIZATION">
+			<mets:name>Biblioteca Nazionale Sagarriga Visconti Volpi - Bari</mets:name>
+		</mets:agent>
+	</mets:metsHdr>
+	<mets:dmdSec ID="DMD1" STATUS="referenced">
+		<mets:mdWrap MDTYPE="MODS" MIMETYPE="text/xml" LABEL="MODS Metadata">
+			<mets:xmlData>
+				<mods:mods>
+					<mods:identifier type="logicalId">CFI0362897</mods:identifier>
+					<mods:identifier type="managementId">175977</mods:identifier>
+					<mods:identifier type="conservativeId">IT-BA0018</mods:identifier>
+					<mods:identifier type="dossierId">(19130301)0001:0003:0000:0000</mods:identifier>
+					<mods:part type="issue">
+						<mods:detail>
+							<mods:number>A. 1, fasc. 3</mods:number>
+						</mods:detail>
+						<mods:date>1 mar. 1913</mods:date>
+					</mods:part>
+					<mods:recordInfo>
+						<mods:recordContentSource>SBN-BIB-002</mods:recordContentSource>
+					</mods:recordInfo>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:amdSec ID="AMD1">
+		<mets:techMD ID="TD_ARCHIVE-IMG1">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/tiff</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>little endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>Uncompressed</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>8600</mix:imageWidth>
+								<mix:imageHeight>11000</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:ColorProfile>
+										<mix:IccProfile>
+											<mix:iccProfileName>sRGB</mix:iccProfileName>
+										</mix:IccProfile>
+									</mix:ColorProfile>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-26T10:33:25</mix:dateTimeCreated>
+								<mix:imageProducer>Ditta che produce il file digitale</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Ditta produttrice del device di acquisizione</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>Nome del modello del device di acquisizione</mix:scannerModelName>
+								</mix:ScannerModel>
+							</mix:ScannerCapture>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>6000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>6000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:techMD ID="TD_ARCHIVE-IMG2">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/tiff</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>little endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>Uncompressed</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>8600</mix:imageWidth>
+								<mix:imageHeight>11000</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:ColorProfile>
+										<mix:IccProfile>
+											<mix:iccProfileName>sRGB</mix:iccProfileName>
+										</mix:IccProfile>
+									</mix:ColorProfile>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-26T10:33:25</mix:dateTimeCreated>
+								<mix:imageProducer>Ditta che produce il file digitale</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Ditta produttrice del device di acquisizione</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>Nome del modello del device di acquisizione</mix:scannerModelName>
+								</mix:ScannerModel>
+							</mix:ScannerCapture>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>6000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>6000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:techMD ID="TD_ARCHIVE-IMG3">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/tiff</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>little endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>Uncompressed</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>8600</mix:imageWidth>
+								<mix:imageHeight>11000</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:ColorProfile>
+										<mix:IccProfile>
+											<mix:iccProfileName>sRGB</mix:iccProfileName>
+										</mix:IccProfile>
+									</mix:ColorProfile>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-26T10:33:25</mix:dateTimeCreated>
+								<mix:imageProducer>Ditta che produce il file digitale</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Ditta produttrice del device di acquisizione</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>Nome del modello del device di acquisizione</mix:scannerModelName>
+								</mix:ScannerModel>
+							</mix:ScannerCapture>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>6000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>6000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:techMD ID="TD_ARCHIVE-IMG4">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/tiff</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>little endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>Uncompressed</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>8600</mix:imageWidth>
+								<mix:imageHeight>11000</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:ColorProfile>
+										<mix:IccProfile>
+											<mix:iccProfileName>sRGB</mix:iccProfileName>
+										</mix:IccProfile>
+									</mix:ColorProfile>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-26T10:33:25</mix:dateTimeCreated>
+								<mix:imageProducer>Ditta che produce il file digitale</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Ditta produttrice del device di acquisizione</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>Nome del modello del device di acquisizione</mix:scannerModelName>
+								</mix:ScannerModel>
+							</mix:ScannerCapture>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>6000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>6000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:techMD ID="TD_HIGH-IMG1">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/jpeg</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>big endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>JPEG</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>4300</mix:imageWidth>
+								<mix:imageHeight>5500</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:ColorProfile>
+										<mix:IccProfile>
+											<mix:iccProfileName>sRGB</mix:iccProfileName>
+										</mix:IccProfile>
+									</mix:ColorProfile>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-26T10:33:25</mix:dateTimeCreated>
+								<mix:imageProducer>Ditta che produce il file digitale</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Ditta produttrice del device di acquisizione</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>Nome del modello del device di acquisizione</mix:scannerModelName>
+								</mix:ScannerModel>
+							</mix:ScannerCapture>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:techMD ID="TD_HIGH-IMG2">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/jpeg</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>big endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>JPEG</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>4300</mix:imageWidth>
+								<mix:imageHeight>5500</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:ColorProfile>
+										<mix:IccProfile>
+											<mix:iccProfileName>sRGB</mix:iccProfileName>
+										</mix:IccProfile>
+									</mix:ColorProfile>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-26T10:33:25</mix:dateTimeCreated>
+								<mix:imageProducer>Ditta che produce il file digitale</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Ditta produttrice del device di acquisizione</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>Nome del modello del device di acquisizione</mix:scannerModelName>
+								</mix:ScannerModel>
+							</mix:ScannerCapture>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:techMD ID="TD_HIGH-IMG3">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/jpeg</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>big endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>JPEG</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>4300</mix:imageWidth>
+								<mix:imageHeight>5500</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:ColorProfile>
+										<mix:IccProfile>
+											<mix:iccProfileName>sRGB</mix:iccProfileName>
+										</mix:IccProfile>
+									</mix:ColorProfile>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-26T10:33:25</mix:dateTimeCreated>
+								<mix:imageProducer>Ditta che produce il file digitale</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Ditta produttrice del device di acquisizione</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>Nome del modello del device di acquisizione</mix:scannerModelName>
+								</mix:ScannerModel>
+							</mix:ScannerCapture>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:techMD ID="TD_HIGH-IMG4">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/jpeg</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>big endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>JPEG</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>4300</mix:imageWidth>
+								<mix:imageHeight>5500</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:ColorProfile>
+										<mix:IccProfile>
+											<mix:iccProfileName>sRGB</mix:iccProfileName>
+										</mix:IccProfile>
+									</mix:ColorProfile>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-26T10:33:25</mix:dateTimeCreated>
+								<mix:imageProducer>Ditta che produce il file digitale</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Ditta produttrice del device di acquisizione</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>Nome del modello del device di acquisizione</mix:scannerModelName>
+								</mix:ScannerModel>
+							</mix:ScannerCapture>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:rightsMD ID="BCS">
+			<mets:mdWrap MDTYPE="METSRIGHTS" MIMETYPE="text/xml" LABEL="Rights Metadata">
+				<mets:xmlData>
+					<metsrights:RightsDeclarationMD>
+						<metsrights:RightsHolder RIGHTSHOLDERID="IT-BA0018">
+							<metsrights:RightsHolderName>Biblioteca Nazionale Sagarriga Visconti Volpi - Bari</metsrights:RightsHolderName>
+							<metsrights:RightsHolderContact>
+								<metsrights:RightsHolderContactEmail>bn-ba@cultura.gov.it</metsrights:RightsHolderContactEmail>
+							</metsrights:RightsHolderContact>
+						</metsrights:RightsHolder>
+						<metsrights:RightsHolder RIGHTSHOLDERID="MiC">
+							<metsrights:RightsHolderName>Ministero della Cultura</metsrights:RightsHolderName>
+						</metsrights:RightsHolder>
+						<metsrights:Context CONTEXTCLASS="OTHER" OTHERCONTEXTTYPE="Standard-IPAC" CONTEXTID="IPAC-PDP-001">
+							<metsrights:UserName>Standard-IPAC</metsrights:UserName>
+						</metsrights:Context>
+					</metsrights:RightsDeclarationMD>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:rightsMD>
+		<mets:rightsMD ID="DCTrights">
+			<mets:mdWrap MDTYPE="DC" MIMETYPE="text/xml" LABEL="DCT Rights Metadata">
+				<mets:xmlData>
+					<dct:license>https://w3id.org/italia/controlled-vocabulary/licences/BC_Standard_1.0</dct:license>
+					<dct:rights>http://rightsstatements.org/vocab/NoC-OKLR/1.0/</dct:rights>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:rightsMD>
+	</mets:amdSec>
+	<mets:fileSec>
+		<mets:fileGrp USE="INTERNAL">
+			<mets:fileGrp USE="IMAGE">
+				<mets:fileGrp USE="ARCHIVE">
+					<mets:file ID="ARCHIVE-IMG1" MIMETYPE="image/tiff" CHECKSUM="n518e85786456887a57e1bdb31fe5890" CHECKSUMTYPE="MD5" SIZE="152724" ADMID="TD_ARCHIVE-IMG1 BCS DCTrights" SEQ="1">
+						<mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./TIFF/IT-BA0018_CFI0362897-0001-0003_00001.tif"/>
+					</mets:file>
+					<mets:file ID="ARCHIVE-IMG2" MIMETYPE="image/tiff" CHECKSUM="8bca0793faeec5931a09df313e401046" CHECKSUMTYPE="MD5" SIZE="166913" ADMID="TD_ARCHIVE-IMG2 BCS DCTrights" SEQ="2">
+						<mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./TIFF/IT-BA0018_CFI0362897-0001-0003_00002.tif"/>
+					</mets:file>
+					<mets:file ID="ARCHIVE-IMG3" MIMETYPE="image/tiff" CHECKSUM="99707c1f34cd739b2bf696d9db1d5cfa" CHECKSUMTYPE="MD5" SIZE="172575" ADMID="TD_ARCHIVE-IMG3 BCS DCTrights" SEQ="3">
+						<mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./TIFF/IT-BA0018_CFI0362897-0001-0003_00003.tif"/>
+					</mets:file>
+					<mets:file ID="ARCHIVE-IMG4" MIMETYPE="image/tiff" CHECKSUM="d9707c1f34cd739b2bf696d9db1d5cfa" CHECKSUMTYPE="MD5" SIZE="172575" ADMID="TD_ARCHIVE-IMG4 BCS DCTrights" SEQ="4">
+						<mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./TIFF/IT-BA0018_CFI0362897-0001-0003_00004.tif"/>
+					</mets:file>
+				</mets:fileGrp>
+				<mets:fileGrp USE="HIGH">
+					<mets:file ID="HIGH-IMG1" MIMETYPE="image/jpeg" CHECKSUM="a518e85786456887a57e1bdb31fe5890" CHECKSUMTYPE="MD5" SIZE="152724" ADMID="TD_HIGH-IMG1 BCS DCTrights" SEQ="1">
+						<mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./JPEG/IT-BA0018_CFI0362897-0001-0003_00001.jpg"/>
+					</mets:file>
+					<mets:file ID="HIGH-IMG2" MIMETYPE="image/jpeg" CHECKSUM="7bca0793faeec5931a09df313e401046" CHECKSUMTYPE="MD5" SIZE="166913" ADMID="TD_HIGH-IMG2 BCS DCTrights" SEQ="2">
+						<mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./JPEG/IT-BA0018_CFI0362897-0001-0003_00002.jpg"/>
+					</mets:file>
+					<mets:file ID="HIGH-IMG3" MIMETYPE="image/jpeg" CHECKSUM="89707c1f34cd739b2bf696d9db1d5cfa" CHECKSUMTYPE="MD5" SIZE="172575" ADMID="TD_HIGH-IMG3 BCS DCTrights" SEQ="3">
+						<mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./JPEG/IT-BA0018_CFI0362897-0001-0003_00003.jpg"/>
+					</mets:file>
+					<mets:file ID="HIGH-IMG4" MIMETYPE="image/jpeg" CHECKSUM="89707c1f34cd739b2bf696d9db1d5cfa" CHECKSUMTYPE="MD5" SIZE="172575" ADMID="TD_HIGH-IMG4 BCS DCTrights" SEQ="4">
+						<mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./JPEG/IT-BA0018_CFI0362897-0001-0003_00004.jpg"/>
+					</mets:file>
+				</mets:fileGrp>
+			</mets:fileGrp>
+			<mets:fileGrp USE="OCR">
+				<mets:fileGrp USE="SERVICE">
+					<mets:file ID="OCR1" MIMETYPE="text/html" CHECKSUM="8518e85786456887a57e1bdb31fe5890" CHECKSUMTYPE="MD5" SIZE="2724" ADMID="BCS DCTrights" SEQ="1">
+						<mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./OCR/IT-BA0018_CFI0362897-0001-0003_00001.hocr"/>
+					</mets:file>
+					<mets:file ID="OCR2" MIMETYPE="text/html" CHECKSUM="5bca0793faeec5931a09df313e401046" CHECKSUMTYPE="MD5" SIZE="6913" ADMID="BCS DCTrights" SEQ="2">
+						<mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./OCR/IT-BA0018_CFI0362897-0001-0003_00002.hocr"/>
+					</mets:file>
+					<mets:file ID="OCR3" MIMETYPE="text/html" CHECKSUM="49707c1f34cd739b2bf696d9db1d5cfa" CHECKSUMTYPE="MD5" SIZE="2575" ADMID="BCS DCTrights" SEQ="3">
+						<mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./OCR/IT-BA0018_CFI0362897-0001-0003_00003.hocr"/>
+					</mets:file>
+					<mets:file ID="OCR4" MIMETYPE="text/html" CHECKSUM="89707c1f34cd739b2bf696d9db1d5cfb" CHECKSUMTYPE="MD5" SIZE="2576" ADMID="BCS DCTrights" SEQ="4">
+						<mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./OCR/IT-BA0018_CFI0362897-0001-0003_00004.hocr"/>
+					</mets:file>
+				</mets:fileGrp>
+			</mets:fileGrp>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap TYPE="PHYSICAL">
+		<mets:div LABEL="single" TYPE="FOLDER">
+			<mets:div ID="DO_IT-BA0018_CFI0362897-0001-0003_00001" LABEL="Pagina: 1" ORDER="1" TYPE="FILE">
+				<mets:fptr FILEID="ARCHIVE-IMG1"/>
+				<mets:fptr FILEID="HIGH-IMG1"/>
+				<mets:fptr FILEID="OCR1"/>
+			</mets:div>
+			<mets:div ID="DO_IT-BA0018_CFI0362897-0001-0003_00002" LABEL="Pagina: 2" ORDER="2" TYPE="FILE">
+				<mets:fptr FILEID="ARCHIVE-IMG2"/>
+				<mets:fptr FILEID="HIGH-IMG2"/>
+				<mets:fptr FILEID="OCR2"/>
+			</mets:div>
+			<mets:div ID="DO_IT-BA0018_CFI0362897-0001-0003_00003" LABEL="Pagina: 3" ORDER="3" TYPE="FILE">
+				<mets:fptr FILEID="ARCHIVE-IMG3"/>
+				<mets:fptr FILEID="HIGH-IMG3"/>
+				<mets:fptr FILEID="OCR3"/>
+			</mets:div>
+			<mets:div ID="DO_IT-BA0018_CFI0362897-0001-0003_00004" LABEL="Pagina: 4" ORDER="4" TYPE="FILE">
+				<mets:fptr FILEID="ARCHIVE-IMG4"/>
+				<mets:fptr FILEID="HIGH-IMG4"/>
+				<mets:fptr FILEID="OCR4"/>
+			</mets:div>
+		</mets:div>
+	</mets:structMap>
+</mets:mets>
+
