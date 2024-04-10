@@ -6,8 +6,7 @@ patrimonio culturale (PND)**](https://github.com/italia/ICDP-PND-docs) in occasi
 Nato nell’ambito dei progetti di sviluppo delle infrastrutture dati digitali del MiC - innanzitutto
 [**I.PaC - Infrastruttura e Servizi digitali del Patrimonio Culturale**](https://ipac.cultura.gov.it/) - il profilo applicativo METS ECO-MiC è utilizzabile per tutti i futuri progetti di digitalizzazione  del patrimonio culturale sul territorio italiano. 
 
-Il profilo verrà periodicamente aggiornato da parte dell’Istituto Centrale per la Digitalizzazione del Patrimonio culturale 
-– Digital Library, che ne cura la pubblicazione, la revisione e l’aggiornamento.
+Il profilo verrà periodicamente aggiornato nell’ambito del progetto I.PaC, all’interno del quale verrà curata la pubblicazione, la revisione e l’aggiornamento.
 
 ## Versione corrente
 ### Profilo METS ECO-MiC versione 1.1 (marzo 2024)
