@@ -1,4 +1,4 @@
-# Profilo METS ECO-MiC
+# Profilo applicativo METS ECO-MiC
 
 Il METS ECO-MiC è il profilo applicativo per la metadatazione delle risorse digitali relative ai beni culturali del Ministero 
 della Cultura. Esso nasce dalle esigenze e dalle riflessioni sviluppatesi intorno al [**Piano nazionale di digitalizzazione del 
