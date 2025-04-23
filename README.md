@@ -15,4 +15,4 @@ Il profilo verrà periodicamente aggiornato nell’ambito del progetto I.PaC, al
 
 ## Versioni precedenti
 ### Profilo METS ECO-MiC versione 1.0 (giugno 2022)
-- [Documento .pdf Profilo applicativo versione 1.0](Versioniprecedenti/ICDP_METS_ECO-MiC_v.1.0.pdf)
+- [Documento .pdf Profilo applicativo versione 1.0](https://github.com/icdp-digital-library/profilo-mets-ecomic/blob/main/Versioni%20precedenti/ICDP_METS_ECO-MiC_v.1.0.pdf)
