@@ -10,7 +10,7 @@ Il profilo verrà periodicamente aggiornato nell’ambito del progetto I.PaC, al
 
 ## Versione corrente
 ### Profilo METS ECO-MiC versione 1.1 (marzo 2024)
--  [Documento .pdf Profilo applicativo versione 1.1](ICDP_Profilo_METS_ECO-MiC_v.1.1_Apr_2024.pdf)
+-  [Documento .pdf Profilo applicativo versione 1.1](https://github.com/icdp-digital-library/profilo-mets-ecomic/blob/main/ICDP_Profilo_METS_ECO-MiC_v.1.1_Apr%202025.pdf)
 -  [Esempio compilato di file XML METS ECO-MiC (Dominio Archivistico)](ASMO_T_CONCORDI_POSS_281822_documento.xml)
 
 ## Versioni precedenti
