@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<mets:mets PROFILE="METS ECO-MiC 1.2" OBJID="METS_4244_01R0377051"
+          xmlns:mets="http://www.loc.gov/METS/" 
+          xmlns:dct="http://purl.org/dc/terms/" 
+          xmlns:mix="http://www.loc.gov/mix/v20" 
+          xmlns:audioMD="http://www.loc.gov/audioMD/" 
+          xmlns:videoMD="http://www.loc.gov/videoMD/" 
+          xmlns:textMD="info:lc/xmlns/textMD-v3" 
+          xmlns:mods="http://www.loc.gov/mods/v3" 
+          xmlns:metsrights="http://cosimo.stanford.edu/sdr/metsrights/" 
+          xmlns:xlink="http://www.w3.org/1999/xlink"  
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/v20 https://www.loc.gov/standards/mix/mix20/mix20.xsd http://www.loc.gov/audioMD/ https://www.loc.gov/standards/amdvmd/audioMD.xsd http://www.loc.gov/videoMD/ https://www.loc.gov/standards/amdvmd/videoMD.xsd info:lc/xmlns/textMD-v3 https://www.loc.gov/standards/textMD/textMD-v3.01a.xsd  http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-8.xsd http://cosimo.stanford.edu/sdr/metsrights/ https://www.loc.gov/standards/rights/METSRights.xsd">
+    <mets:metsHdr ID="ID_01R0377051"
+          CREATEDATE="2025-05-28T20:50:39"
+          LASTMODDATE="2024-05-29T19:43:39"
+          RECORDSTATUS="COMPLETE">
+        <mets:agent ROLE="CREATOR"
+                  TYPE="ORGANIZATION"> 
+            <mets:name>Regione Piemonte</mets:name> 
+        </mets:agent>
+        <mets:agent ROLE="IPOWNER"
+                  TYPE="ORGANIZATION">
+            <mets:name>Museo Civico Casa Cavassa</mets:name>
+        </mets:agent>
+	    <mets:agent ROLE="CUSTODIAN"
+	              TYPE="ORGANIZATION">
+	        <mets:name>Museo Civico Casa Cavassa</mets:name>
+		</mets:agent>
+    </mets:metsHdr>
+        <mets:dmdSec ID="DMD01" STATUS="complete">
+            <mets:mdWrap MDTYPE="MODS">
+                <mets:xmlData>
+                    <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+                        <mods:identifier type="logicalId">01R0377051</mods:identifier>
+                        <mods:identifier type="conservativeId">4244</mods:identifier>
+	                    <mods:identifier type="conservativeIdAuthority">ISTAT</mods:identifier>
+                        <mods:identifier type="relationId">representation</mods:identifier>
+                        <mods:recordInfo>
+							<mods:recordContentSource>REG09-ABAP-002</mods:recordContentSource>
+                        </mods:recordInfo>
+	                    <mods:typeOfResource authority="ICCD">Opere e oggetti d'arte</mods:typeOfResource>
+	                    <mods:titleInfo>
+	                        <mods:title>natura morta</mods:title>
+                        </mods:titleInfo>
+	                    <mods:abstract>cornice in legno dorata. prede di caccia, due polli appesi</mods:abstract>
+	                    <mods:name type="personal">
+	                        <mods:namePart>Falchetti, Giuseppe</mods:namePart>
+		                    <mods:namePart type="date">1843-1918</mods:namePart>
+	                        <mods:role>
+	                            <mods:roleTerm type="text" authority="IPAC">Artista</mods:roleTerm>
+	                        </mods:role>
+	                    </mods:name>
+	                    <mods:originInfo>
+	                        <mods:dateCreated>1887</mods:dateCreated>
+	                    </mods:originInfo>
+	                    <mods:physicalDescription>
+	                        <mods:extent>50x70cm</mods:extent>
+	                    </mods:physicalDescription>
+	                    <mods:location>
+				            <mods:physicalLocation type="current">Palazzo Comunale, via Macallè, corridoio primo piano</mods:physicalLocation>
+				        </mods:location>
+                    </mods:mods>
+                </mets:xmlData>
+            </mets:mdWrap>
+        </mets:dmdSec>
+	    <mets:amdSec ID="TD_ca-493921">
+            <mets:rightsMD ID="BCS">
+                <mets:mdWrap LABEL="Rights Metadata" MDTYPE="METSRIGHTS" MIMETYPE="text/xml">
+                    <mets:xmlData>
+                        <metsrights:RightsDeclarationMD>
+                            <metsrights:RightsHolder RIGHTSHOLDERID="ISTAT-4244">
+                                <metsrights:RightsHolderName>Museo Civico Casa Cavassa</metsrights:RightsHolderName>
+                                <metsrights:RightsHolderContact>
+                                    <metsrights:RightsHolderContactEmail>musa@itur.it</metsrights:RightsHolderContactEmail>
+                                </metsrights:RightsHolderContact>
+                            </metsrights:RightsHolder>
+                            <metsrights:Context CONTEXTCLASS="OTHER" OTHERCONTEXTTYPE="Standard-IPAC" CONTEXTID="IPAC-PDP-001">
+			                    <metsrights:UserName>Standard-IPAC</metsrights:UserName>
+	                        </metsrights:Context>
+                        </metsrights:RightsDeclarationMD>
+                    </mets:xmlData>
+                </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:rightsMD ID="DCTrights">
+		        <mets:mdWrap MDTYPE="DC" MIMETYPE="text/xml" LABEL="DCT Rights Metadata">
+				    <mets:xmlData>
+					    <dct:license>https://w3id.org/italia/controlled-vocabulary/licenses/B117_BCS</dct:license>
+					    <dct:rights>http://rightsstatements.org/vocab/NoC-OKLR/1.0/</dct:rights>
+				    </mets:xmlData>
+			    </mets:mdWrap>
+            </mets:rightsMD>
+        </mets:amdSec>
+        <mets:fileSec>
+		    <mets:fileGrp USE="EXTERNAL">
+			    <mets:fileGrp USE="IMAGE">
+				    <mets:fileGrp USE="PREVIEW">
+					    <mets:file
+                            ID="IMG1"
+                            MIMETYPE="image/jpeg"
+                            CHECKSUM="a518e85786456887a57e1bdb31fe5890"
+                            CHECKSUMTYPE="MD5"
+                            SIZE="152724">
+						         <mets:FLocat
+                                      LOCTYPE="OTHER"
+                                      OTHERLOCTYPE="SYSTEM"
+                                      xlink:href="http://www.esempio.it/samples/img/test.jpg" />
+					    </mets:file>
+				    </mets:fileGrp>
+			    </mets:fileGrp>
+			    <mets:fileGrp USE="MANIFEST">
+				    <mets:file ID="MANIF1">
+					    <mets:FLocat
+                            LOCTYPE="OTHER"
+                            OTHERLOCTYPE="SYSTEM"
+                            xlink:href="http://www.esempio.it/samples/manifest" />
+				    </mets:file>
+			    </mets:fileGrp>
+		    </mets:fileGrp>
+	    </mets:fileSec>
+        <mets:structMap TYPE="PHYSICAL">
+		    <mets:div TYPE="FOLDER" LABEL="Manifest" ID="MANIFEST_1">
+				<mets:div ID="DO_MAN_01" TYPE="FILE" ORDER="0" LABEL="Manifest"> 
+				<mets:fptr FILEID="MANIF1"/>
+				</mets:div>
+			</mets:div>
+	</mets:structMap>
+</mets:mets>

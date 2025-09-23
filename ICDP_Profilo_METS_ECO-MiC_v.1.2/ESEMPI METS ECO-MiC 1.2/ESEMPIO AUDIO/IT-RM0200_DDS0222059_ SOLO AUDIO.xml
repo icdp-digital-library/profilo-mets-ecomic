@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets PROFILE="METS ECO-MiC 1.2" OBJID="METS_IT-RM0200_DDS0222059" xmlns:mets="http://www.loc.gov/METS/" xmlns:dct="http://purl.org/dc/terms/" xmlns:mix="http://www.loc.gov/mix/v20" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:metsrights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:audioMD="http://www.loc.gov/audioMD/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/v20 https://www.loc.gov/standards/mix/mix20/mix20.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-8.xsd http://cosimo.stanford.edu/sdr/metsrights/ https://www.loc.gov/standards/rights/METSRights.xsd http://www.loc.gov/audioMD/ https://www.loc.gov/standards/amdvmd/audioMD.xsd">
+	<mets:metsHdr ID="ID_DDS0222059" CREATEDATE="2025-02-13T15:12:48" LASTMODDATE="2025-02-13T15:12:48" RECORDSTATUS="COMPLETE">
+		<mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+			<mets:name>Ministero della Cultura</mets:name>
+		</mets:agent>
+		<mets:agent ROLE="IPOWNER" TYPE="ORGANIZATION">
+			<mets:name>Ministero della Cultura</mets:name>
+		</mets:agent>
+		<mets:agent ROLE="IPOWNER" TYPE="ORGANIZATION">
+			<mets:name>Istituto Centrale per i Beni Sonori e Audiovisivi - Roma</mets:name>
+		</mets:agent>
+		<mets:agent ROLE="CUSTODIAN" TYPE="ORGANIZATION">
+			<mets:name>Istituto Centrale per i Beni Sonori e Audiovisivi - Roma</mets:name>
+		</mets:agent>
+	</mets:metsHdr>
+	<mets:dmdSec ID="DDS0222059" STATUS="referenced">
+		<mets:mdWrap LABEL="MODS Metadata" MIMETYPE="text/XML" MDTYPE="MODS">
+			<mets:xmlData>
+				<mods:mods>
+					<mods:identifier type="logicalId">DDS0222059</mods:identifier>
+					<mods:identifier type="conservativeId">IT-RM0200</mods:identifier>
+					<mods:identifier type="conservativeIdAuthority">ISIL</mods:identifier>
+					<mods:identifier type="relationId">representation</mods:identifier>
+					<mods:identifier type="managementId">IC   000158578</mods:identifier>
+					<mods:identifier type="dossierId">completa</mods:identifier>
+					<mods:recordInfo>
+						<mods:recordContentSource>SBN-BIB-007</mods:recordContentSource>
+					</mods:recordInfo>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:amdSec ID="AMD1">
+		<mets:techMD ID="TD_WAV_IT-RM0200_DDS0222059_00001">
+			<mets:mdWrap LABEL="AudioMD" MDTYPE="OTHER">
+				<mets:xmlData>
+					<audioMD:AUDIOMD ANALOGDIGITALFLAG="FileDigital"
+									 xmlns:audioMD="http://www.loc.gov/audioMD/"
+                                     xsi:schemaLocation="https://www.loc.gov/standards/amdvmd/audioMD.xsd">
+						<audioMD:fileData>
+							<audioMD:audioDataEncoding>PCM</audioMD:audioDataEncoding>
+							<audioMD:bitsPerSample>24</audioMD:bitsPerSample>
+							<audioMD:dataRate>2117</audioMD:dataRate>
+							<audioMD:dataRateMode>Fixed</audioMD:dataRateMode>
+							<audioMD:formatName>Wave</audioMD:formatName>
+							<audioMD:samplingFrequency>44.1</audioMD:samplingFrequency>
+						</audioMD:fileData>
+						<audioMD:audioInfo>
+							<audioMD:duration>01:54:01.000</audioMD:duration>
+						</audioMD:audioInfo>
+					</audioMD:AUDIOMD>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:techMD ID="TD_MP3_IT-RM0200_DDS0222059_00001">
+			<mets:mdWrap LABEL="AudioMD" MDTYPE="OTHER">
+				<mets:xmlData>
+					<audioMD:AUDIOMD ANALOGDIGITALFLAG="FileDigital"
+									 xmlns:audioMD="http://www.loc.gov/audioMD/"
+                                     xsi:schemaLocation="https://www.loc.gov/standards/amdvmd/audioMD.xsd">
+						<audioMD:fileData>
+							<audioMD:audioBlockSize>6736128</audioMD:audioBlockSize>
+							<audioMD:audioDataEncoding>PCM</audioMD:audioDataEncoding>
+							<audioMD:bitsPerSample>24</audioMD:bitsPerSample>
+							<audioMD:dataRate>256</audioMD:dataRate>
+							<audioMD:dataRateMode>Fixed</audioMD:dataRateMode>
+							<audioMD:formatName>mpeg</audioMD:formatName>
+							<audioMD:formatNote>mpeg 1, Layer 3</audioMD:formatNote>
+							<audioMD:samplingFrequency>48.0</audioMD:samplingFrequency>
+						</audioMD:fileData>
+						<audioMD:audioInfo>
+							<audioMD:duration>01:54:01.000</audioMD:duration>
+						</audioMD:audioInfo>
+					</audioMD:AUDIOMD>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:rightsMD ID="BCS">
+			<mets:mdWrap LABEL="Rights Metadata" MDTYPE="METSRIGHTS" MIMETYPE="text/xml">
+				<mets:xmlData>
+					<metsrights:RightsDeclarationMD>
+						<metsrights:RightsHolder RIGHTSHOLDERID="MiC">
+							<metsrights:RightsHolderName>Ministero della Cultura</metsrights:RightsHolderName>
+						</metsrights:RightsHolder>
+						<metsrights:RightsHolder RIGHTSHOLDERID="IT-RM0200">
+							<metsrights:RightsHolderName>Istituto Centrale per i Beni Sonori e Audiovisivi - Roma</metsrights:RightsHolderName>
+							<metsrights:RightsHolderContact>
+								<metsrights:RightsHolderContactEmail>ic-bsa@pec.cultura.gov.it</metsrights:RightsHolderContactEmail>
+							</metsrights:RightsHolderContact>
+						</metsrights:RightsHolder>
+						<metsrights:Context CONTEXTCLASS="OTHER" OTHERCONTEXTTYPE="Standard-IPAC" CONTEXTID="IPAC-PDP-001">
+							<metsrights:UserName>Standard-IPAC</metsrights:UserName>
+						</metsrights:Context>
+					</metsrights:RightsDeclarationMD>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:rightsMD>
+		<mets:rightsMD ID="DCTrights">
+			<mets:mdWrap MDTYPE="DC" MIMETYPE="text/xml" LABEL="DCT Rights Metadata">
+				<mets:xmlData>
+					<dct:license>https://w3id.org/italia/controlled-vocabulary/licenses/B117_BCS</dct:license>
+					<dct:rights>http://rightsstatements.org/vocab/NoC-OKLR/1.0/</dct:rights>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:rightsMD>
+	</mets:amdSec>
+	<mets:fileSec>
+		<mets:fileGrp ID="FILEGRP_INTERNAL" USE="INTERNAL">
+			<mets:fileGrp ID="FILEGRP_AUDIO" USE="AUDIO">
+				<mets:fileGrp ID="FILEGRP_ARCHIVE_AUDIO" USE="ARCHIVE">
+					<mets:file ADMID="TD_WAV_IT-RM0200_DDS0222059_00001" CHECKSUM="9d52baaa4833311367401dd56d5b0e91" CHECKSUMTYPE="MD5" ID="WAVE_IT-RM0200_DDS0222059_00001" MIMETYPE="audio/wawe" SEQ="1" SIZE="74370928">
+						<mets:FLocat LOCTYPE="URL" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="./WAVE/IT-RM0200_DDS0222059_00001.wav"/>
+					</mets:file>
+				</mets:fileGrp>
+				<mets:fileGrp ID="FILEGRP_HIGH_AUDIO" USE="HIGH">
+					<mets:file ADMID="TD_MP3_IT-RM0200_DDS0222059_00001" CHECKSUM="4ba55cc1f69b391cc09dcbb1c80933e8" CHECKSUMTYPE="MD5" ID="MP3_IT-RM0200_DDS0222059_00001" MIMETYPE="audio/mp3" SEQ="1" SIZE="25765887">
+						<mets:FLocat LOCTYPE="URL" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="./MP3/IT-RM0200_DDS0222059_00001.mp3"/>
+					</mets:file>
+				</mets:fileGrp>
+			</mets:fileGrp>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap TYPE="PHYSICAL">
+		<mets:div DMDID="DDS0222059" TYPE="FOLDER">
+			<mets:div ID="DO_IT-RM0200_DDS0222059_00001" LABEL="Contenuto audio" ORDER="1" TYPE="FILE">
+				<mets:fptr FILEID="WAVE_IT-RM0200_DDS0222059_00001"/>
+				<mets:fptr FILEID="MP3_IT-RM0200_DDS0222059_00001"/>
+			</mets:div>
+		</mets:div>
+	</mets:structMap>
+</mets:mets>

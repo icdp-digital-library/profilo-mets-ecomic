@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets PROFILE="METS ECO-MiC 1.2" OBJID="METS_IT-TO0879_UD370863" xmlns:mets="http://www.loc.gov/METS/" xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:mix="http://www.loc.gov/mix/v20" xmlns:mods="http://www.loc.gov/mods/v3"
+	xmlns:metsrights="http://cosimo.stanford.edu/sdr/metsrights/"
+	xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-7.xsd http://cosimo.stanford.edu/sdr/metsrights/ https://www.loc.gov/standards/rights/METSRights.xsd">
+	<mets:metsHdr ID="ID_UD370863" CREATEDATE="2025-02-10T20:50:39" LASTMODDATE="2025-02-25T19:43:39" RECORDSTATUS="COMPLETE">
+		<mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+			<mets:name>Ministero della Cultura</mets:name>
+		</mets:agent>
+		<mets:agent ROLE="CUSTODIAN" TYPE="ORGANIZATION">
+			<mets:name>Archivio di Stato di Torino</mets:name>
+		</mets:agent>
+		<mets:agent ROLE="IPOWNER" TYPE="ORGANIZATION">
+			<mets:name>Ministero della Cultura</mets:name>
+		</mets:agent>
+	</mets:metsHdr>
+	<mets:dmdSec ID="DMD01" STATUS="referenced">
+		<mets:mdWrap MDTYPE="MODS">
+			<mets:xmlData>
+				<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+					<mods:identifier type="logicalId">UD370863</mods:identifier>
+					<mods:identifier type="conservativeId">IT-TO0879</mods:identifier>
+					<mods:identifier type="conservativeIdAuthority">ISIL</mods:identifier>
+					<mods:identifier type="relationId">representation</mods:identifier>
+					<mods:recordInfo>
+						<mods:recordContentSource>SIA-ARC-005</mods:recordContentSource>
+					</mods:recordInfo>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:amdSec ID="AMD1">
+		<mets:techMD ID="TD_PDF_IT-TO0879_UD370863_0001">
+			<mets:mdWrap MDTYPE="OTHER" LABEL="TEXTMD">
+				<mets:xmlData>
+					<textMD:TEXTMD xmlns:textMD="http://www.loc.gov/textMD-v3/"   
+                     xsi:schemaLocation="https://www.loc.gov/standards/textMD/textMD-v3.01a.xsd">
+						<textMD:encoding>UTF-8</textMD:encoding>
+						<textMD:encoding_software>Adobe Acrobat Pro 2020</textMD:encoding_software>
+						<textMD:characterInfo>
+							<textMD:charset>Unicode</textMD:charset>
+							<textMD:byte_order>little</textMD:byte_order>
+							<textMD:byte_size>8</textMD:byte_size>
+							<textMD:character_size encoding="UTF-8">variable</textMD:character_size>
+							<textMD:linebreak>CR/LF</textMD:linebreak>
+						</textMD:characterInfo>
+						<textMD:language>ita</textMD:language>
+						<textMD:font_script>Aptos</textMD:font_script>
+						<textMD:markup_basis>PDF 1.7 syntax</textMD:markup_basis>
+						<textMD:markup_language>PDF</textMD:markup_language>
+						<textMD:textNote>Documento PDF esportato da software di impaginazione professionale. Contiene testo selezionabile.</textMD:textNote>
+						<textMD:pageOrder>left_to_right</textMD:pageOrder>
+						<textMD:representationSequence>reading-order</textMD:representationSequence>
+						<textMD:lineOrientation>horizontal</textMD:lineOrientation>
+						<textMD:lineLayout>top-to-bottom</textMD:lineLayout>
+						<textMD:characterFlow>left-to-right</textMD:characterFlow>
+					</textMD:TEXTMD>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:rightsMD ID="BCS">
+			<mets:mdWrap LABEL="Rights Metadata" MDTYPE="METSRIGHTS" MIMETYPE="text/xml">
+				<mets:xmlData>
+					<metsrights:RightsDeclarationMD>
+						<metsrights:RightsHolder RIGHTSHOLDERID="MiC">
+							<metsrights:RightsHolderName>Ministero della Cultura</metsrights:RightsHolderName>
+						</metsrights:RightsHolder>
+						<metsrights:RightsHolder RIGHTSHOLDERID="IT-TO0879">
+							<metsrights:RightsHolderName>Archivio di Stato di Torino</metsrights:RightsHolderName>
+								<metsrights:RightsHolderContact>
+									<metsrights:RightsHolderContactEmail>as-to@cultura.gov.it</metsrights:RightsHolderContactEmail>
+								</metsrights:RightsHolderContact>
+							</metsrights:RightsHolder>
+						<metsrights:Context CONTEXTCLASS="OTHER" OTHERCONTEXTTYPE="Standard-IPAC" CONTEXTID="IPAC-PDP-001">
+							<metsrights:UserName>Standard-IPAC</metsrights:UserName>
+						</metsrights:Context>
+					</metsrights:RightsDeclarationMD>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:rightsMD>
+		<mets:rightsMD ID="DCTrights">
+			<mets:mdWrap MDTYPE="DC" MIMETYPE="text/xml" LABEL="DCT Rights Metadata">
+				<mets:xmlData>
+					<dct:license>https://w3id.org/italia/controlled-vocabulary/licenses/B117_BCS</dct:license>
+					<dct:rights>http://rightsstatements.org/vocab/NoC-OKLR/1.0/</dct:rights>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:rightsMD>
+	</mets:amdSec>
+	<mets:fileSec>
+		<mets:fileGrp ID="FILEGRP_INTERNAL" USE="INTERNAL">
+			<mets:fileGrp ID="FILEGRP_TEXT" USE="TEXT">
+				<mets:fileGrp ID="FILEGRP_ARCHIVE" USE="ARCHIVE">
+					<mets:file ADMID="TD_PDF_IT-TO0879_UD370863_0001" CHECKSUM="9d52baaa4833311367401dd56d5b0e91" CHECKSUMTYPE="MD5" ID="PDF_IT-TO0879_UD370863_0001" MIMETYPE="application/pdf" SEQ="1" SIZE="74370928">
+						<mets:FLocat LOCTYPE="URL" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="./PDF/IT-TO0879_UD370863_0001.pdf"/>
+					</mets:file>
+				</mets:fileGrp>
+			</mets:fileGrp>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap TYPE="PHYSICAL">
+		<mets:div DMDID="DMD01" TYPE="FOLDER">
+			<mets:div ID="DO_IT-TO0879_UD370863_0001" LABEL="Documento 1" ORDER="1" TYPE="FILE">
+				<mets:fptr FILEID="PDF_IT-TO0879_UD370863_0001"/>
+			</mets:div>
+		</mets:div>
+	</mets:structMap>
+</mets:mets>

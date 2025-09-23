@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets PROFILE="METS ECO-MiC 1.2" OBJID="METS_IT-TO0879_UD370863" xmlns:mets="http://www.loc.gov/METS/" xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:mix="http://www.loc.gov/mix/v20" xmlns:mods="http://www.loc.gov/mods/v3"
+	xmlns:metsrights="http://cosimo.stanford.edu/sdr/metsrights/"
+	xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-7.xsd http://cosimo.stanford.edu/sdr/metsrights/ https://www.loc.gov/standards/rights/METSRights.xsd">
+	<mets:metsHdr ID="UD370863" CREATEDATE="2025-02-10T20:50:39" LASTMODDATE="2025-02-25T19:43:39" RECORDSTATUS="COMPLETE">
+		<mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+			<mets:name>Ministero della Cultura</mets:name>
+		</mets:agent>
+		<mets:agent ROLE="CUSTODIAN" TYPE="ORGANIZATION">
+			<mets:name>Archivio di Stato di Torino</mets:name>
+		</mets:agent>
+		<mets:agent ROLE="IPOWNER" TYPE="ORGANIZATION">
+			<mets:name>Ministero della Cultura</mets:name>
+		</mets:agent>
+	</mets:metsHdr>
+	<mets:dmdSec ID="DMD01" STATUS="referenced">
+		<mets:mdWrap MDTYPE="MODS">
+			<mets:xmlData>
+				<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+					<mods:identifier type="logicalId">UD370863</mods:identifier>
+					<mods:identifier type="conservativeId">IT-TO0879</mods:identifier>
+					<mods:identifier type="conservativeIdAuthority">ISIL</mods:identifier>
+					<mods:identifier type="relationId">representation</mods:identifier>
+					<mods:recordInfo>
+						<mods:recordContentSource>SIA-ARC-005</mods:recordContentSource>
+					</mods:recordInfo>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:amdSec ID="AMD1">
+		<mets:rightsMD ID="BCS">
+			<mets:mdWrap LABEL="Rights Metadata" MDTYPE="METSRIGHTS" MIMETYPE="text/xml">
+				<mets:xmlData>
+					<metsrights:RightsDeclarationMD>
+						<metsrights:RightsHolder RIGHTSHOLDERID="MiC">
+							<metsrights:RightsHolderName>Ministero della Cultura</metsrights:RightsHolderName>
+						</metsrights:RightsHolder>
+						<metsrights:RightsHolder RIGHTSHOLDERID="IT-TO0879">
+							<metsrights:RightsHolderName>Archivio di Stato di Torino</metsrights:RightsHolderName>
+							<metsrights:RightsHolderContact>
+								<metsrights:RightsHolderContactEmail>as-to@cultura.gov.it</metsrights:RightsHolderContactEmail>
+							</metsrights:RightsHolderContact>
+						</metsrights:RightsHolder>
+						<metsrights:Context CONTEXTCLASS="OTHER" OTHERCONTEXTTYPE="Standard-IPAC" CONTEXTID="IPAC-PDP-001">
+							<metsrights:UserName>Standard-IPAC</metsrights:UserName>
+						</metsrights:Context>
+					</metsrights:RightsDeclarationMD>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:rightsMD>
+		<mets:rightsMD ID="DCTrights">
+			<mets:mdWrap MDTYPE="DC" MIMETYPE="text/xml" LABEL="DCT Rights Metadata">
+				<mets:xmlData>
+					<dct:license>https://w3id.org/italia/controlled-vocabulary/licenses/B117_BCS</dct:license>
+					<dct:rights>http://rightsstatements.org/vocab/NoC-OKLR/1.0/</dct:rights>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:rightsMD>
+	</mets:amdSec>
+	<mets:amdSec ID="AMD2">
+		<mets:techMD ID="TD_JPEG_IT-TO0879_UD370863_0001">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20"
+                             xsi:schemaLocation="http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/jpeg</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>big endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>JPEG</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>4370</mix:imageWidth>
+								<mix:imageHeight>5668</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:ColorProfile>
+										<mix:IccProfile>
+											<mix:iccProfileName>sRGB IEC61966-2.1</mix:iccProfileName>
+										</mix:IccProfile>
+									</mix:ColorProfile>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-26T15:20:23</mix:dateTimeCreated>
+								<mix:imageProducer>EDS Gamma</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Metis Systems srl</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>METIS EDS Gamma integrated with a : Nikon D850 Digital Camera</mix:scannerModelName>
+								</mix:ScannerModel>
+							</mix:ScannerCapture>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:techMD ID="TD_JPEG_IT-TO0879_UD370863_0002">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20"
+                             xsi:schemaLocation="http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/jpeg</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>big endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>JPEG</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>4217</mix:imageWidth>
+								<mix:imageHeight>5636</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:ColorProfile>
+										<mix:IccProfile>
+											<mix:iccProfileName>sRGB IEC61966-2.1</mix:iccProfileName>
+										</mix:IccProfile>
+									</mix:ColorProfile>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-26T15:20:26</mix:dateTimeCreated>
+								<mix:imageProducer>EDS Gamma</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Metis Systems srl</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>METIS EDS Gamma integrated with a : Nikon D850 Digital Camera</mix:scannerModelName>
+								</mix:ScannerModel>
+							</mix:ScannerCapture>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+ 		<mets:techMD ID="TD_JPEG_IT-TO0879_UD370863_0003">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20"
+                             xsi:schemaLocation="http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/jpeg</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>big endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>JPEG</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>4217</mix:imageWidth>
+								<mix:imageHeight>5708</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:ColorProfile>
+										<mix:IccProfile>
+											<mix:iccProfileName>sRGB IEC61966-2.1</mix:iccProfileName>
+										</mix:IccProfile>
+									</mix:ColorProfile>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-26T15:20:28</mix:dateTimeCreated>
+								<mix:imageProducer>EDS Gamma</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Metis Systems srl</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>METIS EDS Gamma integrated with a : Nikon D850 Digital Camera</mix:scannerModelName>
+								</mix:ScannerModel>
+							</mix:ScannerCapture>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>3000000</mix:numerator>
+									<mix:denominator>10000</mix:denominator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:techMD ID="TD_TIFF_IT-TO0879_UD370863_0001">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20"
+                             xsi:schemaLocation="http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/tiff</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>little endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>Uncompressed</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>4579</mix:imageWidth>
+								<mix:imageHeight>5636</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:colorSpace>RGB</mix:colorSpace>
+									<mix:ReferenceBlackWhite>
+										<mix:Component>
+											<mix:componentPhotometricInterpretation>R</mix:componentPhotometricInterpretation>
+											<mix:footroom>
+												<mix:numerator>0</mix:numerator>
+											</mix:footroom>
+											<mix:headroom>
+												<mix:numerator>255</mix:numerator>
+											</mix:headroom>
+										</mix:Component>
+										<mix:Component>
+											<mix:componentPhotometricInterpretation>G</mix:componentPhotometricInterpretation>
+											<mix:footroom>
+												<mix:numerator>0</mix:numerator>
+											</mix:footroom>
+											<mix:headroom>
+												<mix:numerator>255</mix:numerator>
+											</mix:headroom>
+										</mix:Component>
+										<mix:Component>
+											<mix:componentPhotometricInterpretation>B</mix:componentPhotometricInterpretation>
+											<mix:footroom>
+												<mix:numerator>0</mix:numerator>
+											</mix:footroom>
+											<mix:headroom>
+												<mix:numerator>255</mix:numerator>
+											</mix:headroom>
+										</mix:Component>
+									</mix:ReferenceBlackWhite>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-04T15:27:05</mix:dateTimeCreated>
+								<mix:imageProducer>EDS Gamma</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Metis Systems srl</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>METIS EDS Gamma integrated with a : Nikon D850 Digital Camera</mix:scannerModelName>
+								</mix:ScannerModel>
+								<mix:ScanningSystemSoftware>
+									<mix:scanningSoftwareName>LIBFORMAT (c) Pierre-e Gougelet</mix:scanningSoftwareName>
+								</mix:ScanningSystemSoftware>
+							</mix:ScannerCapture>
+							<mix:orientation>normal*</mix:orientation>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>300</mix:numerator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>300</mix:numerator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:techMD ID="TD_TIFF_IT-TO0879_UD370863_0002">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20"
+                             xsi:schemaLocation="http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/tiff</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>little endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>Uncompressed</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>4200</mix:imageWidth>
+								<mix:imageHeight>5643</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:colorSpace>RGB</mix:colorSpace>
+									<mix:ReferenceBlackWhite>
+										<mix:Component>
+											<mix:componentPhotometricInterpretation>R</mix:componentPhotometricInterpretation>
+											<mix:footroom>
+												<mix:numerator>0</mix:numerator>
+											</mix:footroom>
+											<mix:headroom>
+												<mix:numerator>255</mix:numerator>
+											</mix:headroom>
+										</mix:Component>
+										<mix:Component>
+											<mix:componentPhotometricInterpretation>G</mix:componentPhotometricInterpretation>
+											<mix:footroom>
+												<mix:numerator>0</mix:numerator>
+											</mix:footroom>
+											<mix:headroom>
+												<mix:numerator>255</mix:numerator>
+											</mix:headroom>
+										</mix:Component>
+										<mix:Component>
+											<mix:componentPhotometricInterpretation>B</mix:componentPhotometricInterpretation>
+											<mix:footroom>
+												<mix:numerator>0</mix:numerator>
+											</mix:footroom>
+											<mix:headroom>
+												<mix:numerator>255</mix:numerator>
+											</mix:headroom>
+										</mix:Component>
+									</mix:ReferenceBlackWhite>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-04T15:27:08</mix:dateTimeCreated>
+								<mix:imageProducer>EDS Gamma</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Metis Systems srl</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>METIS EDS Gamma integrated with a : Nikon D850 Digital Camera</mix:scannerModelName>
+								</mix:ScannerModel>
+								<mix:ScanningSystemSoftware>
+									<mix:scanningSoftwareName>LIBFORMAT (c) Pierre-e Gougelet</mix:scanningSoftwareName>
+								</mix:ScanningSystemSoftware>
+							</mix:ScannerCapture>
+							<mix:orientation>normal*</mix:orientation>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>300</mix:numerator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>300</mix:numerator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:techMD ID="TD_TIFF_IT-TO0879_UD370863_0003">
+			<mets:mdWrap MDTYPE="NISOIMG">
+				<mets:xmlData>
+					<mix:mix xmlns:mix="http://www.loc.gov/mix/v20"
+                             xsi:schemaLocation="http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+						<mix:BasicDigitalObjectInformation>
+							<mix:ObjectIdentifier>
+								<mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+							</mix:ObjectIdentifier>
+							<mix:FormatDesignation>
+								<mix:formatName>image/tiff</mix:formatName>
+							</mix:FormatDesignation>
+							<mix:byteOrder>little endian</mix:byteOrder>
+							<mix:Compression>
+								<mix:compressionScheme>Uncompressed</mix:compressionScheme>
+							</mix:Compression>
+						</mix:BasicDigitalObjectInformation>
+						<mix:BasicImageInformation>
+							<mix:BasicImageCharacteristics>
+								<mix:imageWidth>4579</mix:imageWidth>
+								<mix:imageHeight>5668</mix:imageHeight>
+								<mix:PhotometricInterpretation>
+									<mix:colorSpace>RGB</mix:colorSpace>
+									<mix:ReferenceBlackWhite>
+										<mix:Component>
+											<mix:componentPhotometricInterpretation>R</mix:componentPhotometricInterpretation>
+											<mix:footroom>
+												<mix:numerator>0</mix:numerator>
+											</mix:footroom>
+											<mix:headroom>
+												<mix:numerator>255</mix:numerator>
+											</mix:headroom>
+										</mix:Component>
+										<mix:Component>
+											<mix:componentPhotometricInterpretation>G</mix:componentPhotometricInterpretation>
+											<mix:footroom>
+												<mix:numerator>0</mix:numerator>
+											</mix:footroom>
+											<mix:headroom>
+												<mix:numerator>255</mix:numerator>
+											</mix:headroom>
+										</mix:Component>
+										<mix:Component>
+											<mix:componentPhotometricInterpretation>B</mix:componentPhotometricInterpretation>
+											<mix:footroom>
+												<mix:numerator>0</mix:numerator>
+											</mix:footroom>
+											<mix:headroom>
+												<mix:numerator>255</mix:numerator>
+											</mix:headroom>
+										</mix:Component>
+									</mix:ReferenceBlackWhite>
+								</mix:PhotometricInterpretation>
+							</mix:BasicImageCharacteristics>
+						</mix:BasicImageInformation>
+						<mix:ImageCaptureMetadata>
+							<mix:GeneralCaptureInformation>
+								<mix:dateTimeCreated>2022-10-04T15:27:11</mix:dateTimeCreated>
+ 								<mix:imageProducer>EDS Gamma</mix:imageProducer>
+							</mix:GeneralCaptureInformation>
+							<mix:ScannerCapture>
+								<mix:scannerManufacturer>Metis Systems srl</mix:scannerManufacturer>
+								<mix:ScannerModel>
+									<mix:scannerModelName>METIS EDS Gamma integrated with a : Nikon D850 Digital Camera</mix:scannerModelName>
+								</mix:ScannerModel>
+								<mix:ScanningSystemSoftware>
+									<mix:scanningSoftwareName>LIBFORMAT (c) Pierre-e Gougelet</mix:scanningSoftwareName>
+								</mix:ScanningSystemSoftware>
+							</mix:ScannerCapture>
+							<mix:orientation>normal*</mix:orientation>
+						</mix:ImageCaptureMetadata>
+						<mix:ImageAssessmentMetadata>
+							<mix:SpatialMetrics>
+								<mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+								<mix:xSamplingFrequency>
+									<mix:numerator>300</mix:numerator>
+								</mix:xSamplingFrequency>
+								<mix:ySamplingFrequency>
+									<mix:numerator>300</mix:numerator>
+								</mix:ySamplingFrequency>
+							</mix:SpatialMetrics>
+							<mix:ImageColorEncoding>
+								<mix:BitsPerSample>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+									<mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+								</mix:BitsPerSample>
+								<mix:samplesPerPixel>3</mix:samplesPerPixel>
+							</mix:ImageColorEncoding>
+						</mix:ImageAssessmentMetadata>
+					</mix:mix>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+	</mets:amdSec>
+	<mets:fileSec>
+		<mets:fileGrp ID="FILEGRP_INTERNAL" USE="INTERNAL">
+			<mets:fileGrp ID="FILEGRP_TEXT" USE="TEXT">
+				<mets:fileGrp ID="FILEGRP_ARCHIVE" USE="ARCHIVE">
+					<mets:file ADMID="TD_TIFF_IT-TO0879_UD370863_0001" CHECKSUM="9d52baaa4833311367401dd56d5b0e91" CHECKSUMTYPE="MD5" ID="TIFF_IT-TO0879_UD370863_0001" MIMETYPE="image/tiff" SEQ="1" SIZE="74370928">
+						<mets:FLocat LOCTYPE="URL" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="./TIFF/IT-TO0879_UD370863_0001.tif"/>
+					</mets:file>
+					<mets:file ADMID="TD_TIFF_IT-TO0879_UD370863_0002" CHECKSUM="61d174fb9c582434dd3000f2c5170920" CHECKSUMTYPE="MD5" ID="TIFF_IT-TO0879_UD370863_0002" MIMETYPE="image/tiff" SEQ="2" SIZE="71367727">
+						<mets:FLocat LOCTYPE="URL" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="./TIFF/IT-TO0879_UD370863_0002.tif"/>
+					</mets:file>
+					<mets:file ADMID="TD_TIFF_IT-TO0879_UD370863_0003" CHECKSUM="28e76548261bb057252529856b8546a8" CHECKSUMTYPE="MD5" ID="TIFF_IT-TO0879_UD370863_0003" MIMETYPE="image/tiff" SEQ="3" SIZE="72279253">
+						<mets:FLocat LOCTYPE="URL" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="./TIFF/IT-TO0879_UD370863_0003.tif"/>
+					</mets:file>
+				</mets:fileGrp>
+				<mets:fileGrp ID="FILEGRP_HIGH" USE="HIGH">
+					<mets:file ADMID="TD_JPEG_IT-TO0879_UD370863_0001" CHECKSUM="4ba55cc1f69b391cc09dcbb1c80933e8" CHECKSUMTYPE="MD5" ID="JPEG_IT-TO0879_UD370863_0001" MIMETYPE="image/jpeg" SEQ="1" SIZE="25765887">
+						<mets:FLocat LOCTYPE="URL" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="./JPEG300/IT-TO0879_UD370863_0001.jpg"/>
+					</mets:file>
+					<mets:file ADMID="TD_JPEG_IT-TO0879_UD370863_0002" CHECKSUM="0d021463e8393ea076f19642b09889d4" CHECKSUMTYPE="MD5" ID="JPEG_IT-TO0879_UD370863_0002" MIMETYPE="image/jpeg" SEQ="2" SIZE="22657336">
+						<mets:FLocat LOCTYPE="URL" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="./JPEG300/IT-TO0879_UD370863_0002.jpg"/>
+					</mets:file>
+					<mets:file ADMID="TD_JPEG_IT-TO0879_UD370863_0003" CHECKSUM="7f6bc7361a55f6823545ffc655e58448" CHECKSUMTYPE="MD5" ID="JPEG_IT-TO0879_UD370863_0003" MIMETYPE="image/jpeg" SEQ="3" SIZE="23604537">
+						<mets:FLocat LOCTYPE="URL" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="./JPEG300/IT-TO0879_UD370863_0003.jpg"/>
+					</mets:file>
+				</mets:fileGrp>
+			</mets:fileGrp>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap TYPE="PHYSICAL">
+		<mets:div DMDID="DMD01" TYPE="FOLDER">
+			<mets:div ID="DO_IT-TO0879_UD370863_0001" LABEL="Carta 1" ORDER="1" TYPE="FILE">
+				<mets:fptr FILEID="TIFF_IT-TO0879_UD370863_0001"/>
+				<mets:fptr FILEID="JPEG_IT-TO0879_UD370863_0001"/>				
+			</mets:div>
+			<mets:div ID="DO_IT-TO0879_UD370863_0002" LABEL="Carta 2" ORDER="2" TYPE="FILE">
+				<mets:fptr FILEID="TIFF_IT-TO0879_UD370863_0002"/>
+				<mets:fptr FILEID="JPEG_IT-TO0879_UD370863_0002"/>				
+			</mets:div>
+			<mets:div ID="DO_IT-TO0879_UD370863_0003" LABEL="Scala colore" ORDER="3" TYPE="FILE">
+				<mets:fptr FILEID="TIFF_IT-TO0879_UD370863_0003"/>
+				<mets:fptr FILEID="JPEG_IT-TO0879_UD370863_0003"/>				
+			</mets:div>
+		</mets:div>
+	</mets:structMap>
+</mets:mets>

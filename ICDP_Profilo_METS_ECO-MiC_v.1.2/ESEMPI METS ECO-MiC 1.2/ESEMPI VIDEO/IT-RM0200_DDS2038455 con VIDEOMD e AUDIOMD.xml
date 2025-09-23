@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets PROFILE="METS ECO-MiC 1.2" OBJID="METS_IT-RM0200_DDS2038455" xmlns:mets="http://www.loc.gov/METS/" xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:mix="http://www.loc.gov/mix/v20" xmlns:mods="http://www.loc.gov/mods/v3"
+	xmlns:metsrights="http://cosimo.stanford.edu/sdr/metsrights/"
+	xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-7.xsd http://cosimo.stanford.edu/sdr/metsrights/ https://www.loc.gov/standards/rights/METSRights.xsd">
+	<mets:metsHdr ID="DDS2038455" CREATEDATE="2025-02-10T20:50:39" LASTMODDATE="2025-02-25T19:43:39" RECORDSTATUS="COMPLETE">
+		<mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+			<mets:name>Ministero della Cultura</mets:name>
+		</mets:agent>
+		<mets:agent ROLE="IPOWNER" TYPE="ORGANIZATION">
+			<mets:name>Ministero della Cultura</mets:name>
+		</mets:agent>
+		<mets:agent ROLE="IPOWNER" TYPE="ORGANIZATION">
+			<mets:name>Istituto Centrale per i Beni Sonori e Audiovisivi - Roma</mets:name>
+		</mets:agent>
+		<mets:agent ROLE="CUSTODIAN" TYPE="ORGANIZATION">
+			<mets:name>Istituto Centrale per i Beni Sonori e Audiovisivi - Roma</mets:name>
+		</mets:agent>
+	</mets:metsHdr>
+	<mets:dmdSec ID="DMD1" STATUS="referenced">
+		<mets:mdWrap LABEL="MODS Metadata" MIMETYPE="text/XML" MDTYPE="MODS">
+			<mets:xmlData>
+				<mods:mods>
+					<mods:identifier type="logicalId">DDS2038455</mods:identifier>
+					<mods:identifier type="conservativeId">IT-RM0200</mods:identifier>
+					<mods:identifier type="conservativeIdAuthority">ISIL</mods:identifier>
+					<mods:identifier type="relationId">representation</mods:identifier>
+					<mods:identifier type="managementId">IC   000463208</mods:identifier>
+					<mods:identifier type="dossierId">completa</mods:identifier>
+					<mods:recordInfo>
+						<mods:recordContentSource>SBN-BIB-008</mods:recordContentSource>
+					</mods:recordInfo>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:amdSec ID="AMD1">
+		<mets:techMD ID="VID_TMD1" ADMID="AUD_TMD1">
+			<mets:mdWrap LABEL="VIDEOMD" MDTYPE="OTHER">
+				<mets:xmlData>
+					<videoMD:VIDEOMD ANALOGDIGITALFLAG="FileDigital" 
+					                 xmlns:videoMD="http://www.loc.gov/videoMD/"
+                                     xsi:schemaLocation="https://www.loc.gov/standards/amdvmd/videoMD.xsd">
+						<videoMD:fileData>
+							<videoMD:bitsPerSample>8</videoMD:bitsPerSample>
+							<videoMD:color>Color</videoMD:color>
+							<videoMD:otherColor>BT.601</videoMD:otherColor>
+							<videoMD:compression>
+								<videoMD:codecName>MPEG</videoMD:codecName>
+								<videoMD:codecQuality>lossy</videoMD:codecQuality>
+						    </videoMD:compression>
+							<videoMD:frame>
+								<videoMD:pixelsHorizontal>720</videoMD:pixelsHorizontal>
+								<videoMD:pixelsVertical>576</videoMD:pixelsVertical>
+							</videoMD:frame>
+							<videoMD:frameRate mode="Fixed" unit="FPS">25.000</videoMD:frameRate> 
+							<videoMD:format>
+								<videoMD:name>AVI</videoMD:name>
+								<videoMD:commercialName>Audio Video Interleave</videoMD:commercialName>
+								<videoMD:version>1.0</videoMD:version>
+							</videoMD:format>
+							<videoMD:signalFormat>PAL</videoMD:signalFormat>
+							<videoMD:sound>Yes</videoMD:sound>
+						</videoMD:fileData>
+						<videoMD:videoInfo>
+							<videoMD:aspectRatio>4:3</videoMD:aspectRatio>
+							<videoMD:duration>00:03:45</videoMD:duration>
+						</videoMD:videoInfo>
+					</videoMD:VIDEOMD>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:techMD ID="AUD_TMD1" ADMID="VID_TMD1">
+			<mets:mdWrap LABEL="AudioMD" MDTYPE="OTHER">
+				<mets:xmlData>
+					<audioMD:AUDIOMD ANALOGDIGITALFLAG="FileDigital"
+									 xmlns:audioMD="http://www.loc.gov/audioMD/"
+                                     xsi:schemaLocation="https://www.loc.gov/standards/amdvmd/audioMD.xsd">
+						<audioMD:fileData>
+							<audioMD:bitsPerSample>24</audioMD:bitsPerSample>
+							<audioMD:dataRate>256</audioMD:dataRate>
+							<audioMD:formatName>AAC</audioMD:formatName>
+							<audioMD:formatVersion>LC</audioMD:formatVersion>
+							<audioMD:samplingFrequency>48.0</audioMD:samplingFrequency>
+						</audioMD:fileData>
+						<audioMD:audioInfo>
+							<audioMD:duration>00:03:45</audioMD:duration>
+						</audioMD:audioInfo>
+					</audioMD:AUDIOMD>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:techMD>
+		<mets:rightsMD ID="BCS">
+			<mets:mdWrap LABEL="Rights Metadata" MDTYPE="METSRIGHTS" MIMETYPE="text/xml">
+				<mets:xmlData>
+					<metsrights:RightsDeclarationMD>
+						<metsrights:RightsHolder RIGHTSHOLDERID="MiC">
+							<metsrights:RightsHolderName>Ministero della Cultura</metsrights:RightsHolderName>
+						</metsrights:RightsHolder>
+						<metsrights:RightsHolder RIGHTSHOLDERID="IT-RM0200">
+							<metsrights:RightsHolderName>Istituto Centrale per i Beni Sonori e Audiovisivi - Roma</metsrights:RightsHolderName>
+							<metsrights:RightsHolderContact>
+								<metsrights:RightsHolderContactEmail>ic-bsa@pec.cultura.gov.it</metsrights:RightsHolderContactEmail>
+							</metsrights:RightsHolderContact>
+						</metsrights:RightsHolder>
+						<metsrights:Context CONTEXTCLASS="OTHER" OTHERCONTEXTTYPE="Standard-IPAC" CONTEXTID="IPAC-PDP-001">
+							<metsrights:UserName>Standard-IPAC</metsrights:UserName>
+						</metsrights:Context>
+					</metsrights:RightsDeclarationMD>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:rightsMD>
+		<mets:rightsMD ID="DCTrights">
+			<mets:mdWrap MDTYPE="DC" MIMETYPE="text/xml" LABEL="DCT Rights Metadata">
+				<mets:xmlData>
+					<dct:license>https://w3id.org/italia/controlled-vocabulary/licenses/B117_BCS</dct:license>
+					<dct:rights>http://rightsstatements.org/vocab/NoC-OKLR/1.0/</dct:rights>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:rightsMD>
+	</mets:amdSec>
+	<mets:fileSec>
+		<mets:fileGrp ID="FILEGRP_INTERNAL" USE="INTERNAL">
+			<mets:fileGrp ID="FILEGRP_VIDEO" USE="VIDEO">
+				<mets:fileGrp ID="FILEGRP_ARCHIVE_VIDEO" USE="ARCHIVE">
+					<mets:file ADMID="VID_TMD1 AUD_TMD1" CHECKSUM="d41d8cd98f00b204e9800998ecf8427e" CHECKSUMTYPE="MD5" ID="AVI_IT-RM0200_DDS2038455_00001" MIMETYPE="video/x-msvideo" SEQ="1" SIZE="104857600">
+						<mets:FLocat LOCTYPE="URL" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="./AVI/IT-RM0200_DDS2038455_00001.avi"/>
+					</mets:file>
+				</mets:fileGrp>
+			</mets:fileGrp>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap TYPE="PHYSICAL">
+		<mets:div DMDID="DMD1" TYPE="FOLDER">
+			<mets:div ID="DO_IT-RM0200_DDS2038455_00001" LABEL="Intervista" ORDER="1" TYPE="FILE">
+				<mets:fptr FILEID="AVI_IT-RM0200_DDS2038455_00001"/>
+			</mets:div>
+		</mets:div>
+	</mets:structMap>
+</mets:mets>
